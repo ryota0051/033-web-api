@@ -1,0 +1,10 @@
+{
+  "name": "033-web-api",
+  "forwardPorts": [8000],
+  "dockerFile": "../Dockerfile",
+  "customizations": {
+    "vscode": {
+      "extensions": ["ms-python.python"]
+    }
+  }
+}
